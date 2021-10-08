@@ -51,9 +51,9 @@ func main() {
 		// 用户登录code
 		code := c.Query("code")
 		// 用户小程序id
-		id := `wxb27cb3df6158fc0e`
+		id := `wxb##########8fc0e`
 		// 小程序secret
-		secret := `001a15eeb9b2e60acfb21ce896e3885f`
+		secret := `00#############e3885f`
 		// grant_type const
 		grant_type := `authorization_code`
 		// 请求路径
